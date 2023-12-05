@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fjkr
+=======
+ennjj
+>>>>>>> 7e9fdcf (changed to be made)
